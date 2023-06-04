@@ -1,56 +1,6 @@
 ## 点点烛光发声平台
 
-
-
-模版来自： [terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)
-
-
-## 如何参与
-
-_TODO_
-
-
-## 镜像网站
-
-
-## 本地预览
-
-```
-gem install bundler jekyll
-gem install jekyll-paginate
-gem install jekyll-seo-tag
-gem install jekyll-sitemap
-gem install webrick
-git clone --depth=1 https://github.com/ngocnorg.github.io.git
-cd ngocnorg.github.io
-jekyll serve
-```
-
-## 致谢
-
-### 开源程序
-
-- 博客模板 [kiko-now](https://github.com/AWEEKJ/kiko-now)
-  - 某星球模版： [TerminusBot](https://github.com/TerminusBot/terminus-jekyll-template)
-  - 后人的接力：[Terminus2021](https://github.com/Terminus2021/TermJekyll-template)
-- 字体方案 <http://cosx.org>
-- 分享组件 [Share.js](https://github.com/overtrue/share.js)
-- [GitHub Corners](http://tholman.com/github-corners/)
-- 分页 [pangu.js](https://github.com/vinta/pangu.js)
-- [github-cards](https://github.com/lepture/github-cards)
-- 站内搜索 [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-- 网页转图片 [html2canvas](http://html2canvas.hertzen.com) 
-- 文件下载 [FileSaver](http://purl.eligrey.com/github/FileSaver.js/blob/master/FileSaver.js) 
-
-### 服务
-
-免费可靠的图床 [sm.ms](https://sm.ms/)
-
-
-### 贡献者
-
-- 隆重感谢某个银河系最遥远的星球！
-
+拒绝遗忘，独立发声。
 
 ## 版权
 
@@ -60,4 +10,4 @@ jekyll serve
 
 ### 文章版权
 
-[\_posts](https://github.com/voice-against-covid19/voice-against-covid19.github.io/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/voice-against-covid19/voice-against-covid19.github.io/issues)，我们将在第一时间予以删除。
+所有报道资讯均按「共享创意」（Creative Commons）的「署名」（Attribution）-非商业性使用NonCommercial-禁止演绎 4.0 国际NoDerivatives 4.0 International (CC BY-NC-ND 4.0) 原则，即标明出处和作者等情况下，授权他方在遵守许可协议条款下自由使用，以支持涉及公众利益的新闻报道，能广传流通。
