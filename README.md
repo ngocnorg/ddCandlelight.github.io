@@ -10,4 +10,4 @@
 
 ### 文章版权
 
-所有报道资讯均按「共享创意」（Creative Commons）的「署名」（Attribution）-非商业性使用NonCommercial-禁止演绎 4.0 国际NoDerivatives 4.0 International (CC BY-NC-ND 4.0) 原则，即标明出处和作者等情况下，授权他方在遵守许可协议条款下自由使用，以支持涉及公众利益的新闻报道，能广传流通。
+所有报道资讯均按「共享创意」（Creative Commons）的「署名」（Attribution）-非商业性使用NonCommercial-禁止演绎 4.0 国际NoDerivatives 4.0 International ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) 原则，即标明出处和作者等情况下，授权他方在遵守许可协议条款下自由使用，以支持涉及公众利益的新闻报道，能广传流通。
